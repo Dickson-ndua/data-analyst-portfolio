@@ -52,4 +52,4 @@ This portfolio highlights projects where I transform raw data into actionable in
 ## 🔹 Contact
 - 📧 Email: dicksonndua@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dicksonndua](https://linkedin.com/)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [github.com/Dickson-ndua](https://github.com/Dickson-ndua)
